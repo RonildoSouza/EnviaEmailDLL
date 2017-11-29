@@ -6,7 +6,7 @@ using System.Text;
 namespace EnviaEmailDLL.Helper
 {
     /// <summary>
-    /// Classe para Criptografar e Descriptografar parametros.
+    /// Classe para Criptografar e Descriptografar string.
     /// </summary>
     public static class Encryption64
     {
